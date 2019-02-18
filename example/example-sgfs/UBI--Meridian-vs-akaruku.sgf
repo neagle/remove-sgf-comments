@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[WebGoBoard:0.10.9]ST[2]RU[japanese]SZ[19]KM[0.5]HA[0]TM[20:00 + 00:30(5) ByoYomi]RE[B+Resign]DT[2019-02-17]PB[Meridian]BR[8k]PW[akaruku]WR[7k]EV[Ranked game]PC[The KGS Go Server at http://www.gokgs.com/]US[Meridian[8k];B[pd];W[dp]C[Meridian [8k\]: hi
+akaruku [7k\]: hi
+Meridian [8k\]: good luck and have fun
+Meridian [8k\]: hi
+akaruku [7k\]: hi
+Meridian [8k\]: good luck and have fun
+];B[qp];W[dc];B[oq];W[qj];B[fd]C[kickaha\: a questionable approach, as white will be quite happy to play the enclosure.
+
+Brisbaner\: horrible approach, C15 better
+];W[de];B[qh]C[Brisbaner\: wR5 Q5 R6 S4 Standard settle
+];W[qn];B[ec];W[db];B[jc];W[pl]C[kickaha\: is very samll. white shouldnt be scared of a black invasion here, if so, then the 3 space jump was bad to begin with
+
+ F3 instead maybe, or hit the 3x3 in the top right.
+
+Brisbaner\: This is playable by w
+];B[fq];W[cn];B[jp]C[Brisbaner\: Why? F5 and D3 both better Never defend when you can pressure
+];W[qc];B[pc];W[qd];B[qf]C[Brisbaner\: wS14 Only move here, but probably too high level for you atm. Suffice to say you don't want black to not need to fix the cut
+];W[qe];B[pe];W[rf];B[rg];W[pf];B[qg];W[re]C[kickaha\: bR18 S18 Q18 K1 S19 T18 T16
+
+blacks hane is sente here, white gets a bulky 5 if she tenukis.
+];B[pb];W[qb]C[UBI\: Had a hard time deciding whether to hane or extend here.
+
+Brisbaner\: R19 is not sente. bR19 S19 Q19 P14
+];B[of]C[UBI\: should B have played bR19 S19 Q19 T18 P14 or is W's next move premature?
+
+kickaha\: i think black R19 is sente still. white playing the hane now is indeed premature, at this stage there shoulb be bigger moves...
+but its the knid of move that is hard to ignore \:D.
+];W[pa];B[oa];W[qa]C[kickaha\: bC13 bC13 C11 C16
+maybe.
+];B[ob];W[kc];B[jd];W[le];B[ke];W[lf];B[ld];W[kd];B[lc];W[kb];B[kf];W[lg];B[kg];W[lh];B[nd]C[UBI\: bO15 N16 N17 N15 O16 instead
+
+kickaha\: i dont think a move gere is necessay. bK11 M10 C13 O16 O17 P15 Q13
+];W[ne];B[oe];W[md];B[mc];W[me];B[nc]C[UBI\: B could tenuki
+];W[kh];B[hg];W[jg];B[if];W[jf];B[je];W[jh];B[cq];W[dq];B[dr];W[cp]C[UBI\: white should have played the joseki wE2 C2 E3 B5 C4 B4 B6 C5 D5 A2 D6 C13
+
+kickaha\: i agree. maybe the 3x3 is not optimal at this pint. the left side looks bigger.
+];B[br];W[bq];B[cr];W[dk];B[oo]C[kickaha\: a little unsure aht this does. it makes the lower side a little bigger, but its still invadable. i would still reduece the left here.
+];W[ro];B[rp];W[kp];B[kq];W[jq]C[kickaha\: bM3 J3 K5
+i like to help the L3 stone here. the lower left is fine as long as it can capture B3.
+];B[ip];W[lq];B[kr];W[lp];B[lr]C[kickaha\: better play K2 right away i think. song give additional forcing moves to white. 
+bK2 M6
+maybe you can seperate white in the middle and get an attack later.
+];W[mr];B[jr];W[np];B[nr]C[UBI\: bP4 is better move to allow movement into center
+
+kickaha\: yup.
+];W[nq];B[or];W[op];B[pp];W[po];B[ms]C[kickaha\: very small move. dont give up your cutting stone so easily.
+ bP6 N6 O8
+];W[qo];B[oi];W[nl];B[mj];W[lk];B[lj];W[kj];B[mk];W[ll];B[kk];W[jj];B[ml];W[mm];B[kl]C[UBI\:  bM7 L8 O7 N6 P8 O6 P7 P6 K9
+];W[lm];B[hl];W[km];B[ik];W[hi];B[ok];W[ol];B[ej];W[fi];B[ei];W[gg];B[gf];W[fg];B[cj];W[dj];B[di];W[ck];B[cd];W[dd];B[ce];W[cf];B[bf];W[bg];B[cg];W[df];B[bh];W[be];B[ag];W[bd];B[bj];W[bk];B[dg];W[ff];B[fe];W[ee];B[eb];W[ea];B[fa];W[da];B[fb];W[in];B[fk];W[fp];B[gq];W[bp];B[ri];W[rj];B[jn];W[jm];B[jo];W[im];B[jk];W[sp];B[sq];W[so];B[rq];W[sj];B[el];W[dl];B[em];W[dm];B[en];W[ep];B[pk];W[qk];B[pi];W[nk];B[nj];W[pj];B[oj];W[si];B[sh];W[qi];B[rh];W[ng];B[og];W[nf];B[mq];W[mp];B[lo];W[ko];B[kn];W[ln];B[mo];W[no];B[nn]C[Meridian [8k\]: gg thx
+])
